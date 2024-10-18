@@ -1,5 +1,5 @@
 # Med-KGRAG
-We will finish the project to submit a paper for www conference.
+我们将完成这个工作用于投稿 WWW 会议
 
 ## 介绍
 
