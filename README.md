@@ -146,6 +146,6 @@ vqa-rad # 根目录
 │   ├── train
 │       ├── image
 │       ├── data.json  # vqa-rad原始训练数据
-│   ├── test-00000-of-00001-e5bc3d208bb4deeb.parquet
-│   ├── train-00000-of-00001-eb8844602202be60.parquet
+│   ├── test-00000-of-00001-e5bc3d208bb4deeb.parquet  # 测试数据的.parquet文件
+│   ├── train-00000-of-00001-eb8844602202be60.parquet  # 训练数据的.parquet文件
 ```
