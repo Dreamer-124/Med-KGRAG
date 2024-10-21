@@ -133,3 +133,19 @@
 | "UPREGULATOR"             | 上调调节剂                  |
 | "DOWNREGULATOR"           | 下调调节剂                  |
 | "AGONIST-INHIBITOR"       | 激动剂抑制                  |
+
+
+### 生成推理数据集结构
+```
+vqa-rad # 根目录
+├── data
+│   ├── test
+│       ├── image
+│       ├── data-reasoning-pre.json  # 包含推理数据的json文件
+│       ├── data.json  # vqa-rad原始测试数据
+│   ├── train
+│       ├── image
+│       ├── data.json  # vqa-rad原始训练数据
+│   ├── test-00000-of-00001-e5bc3d208bb4deeb.parquet
+│   ├── train-00000-of-00001-eb8844602202be60.parquet
+```
